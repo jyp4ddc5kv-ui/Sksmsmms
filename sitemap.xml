@@ -1,51 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- الصفحة الرئيسية -->
     <url>
         <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/</loc>
-        <lastmod>2024-01-20</lastmod>
+        <lastmod>2024-01-30</lastmod>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <priority>1.00</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://jyp4ddc5kv-ui.github.io/Sksmmsms/" />
     </url>
+    
+    <!-- القرآن الكريم -->
     <url>
         <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/#surah-section</loc>
-        <lastmod>2024-01-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.9</priority>
+        <lastmod>2024-01-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
     </url>
+    
+    <!-- مواقيت الصلاة -->
     <url>
         <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/#prayer-section</loc>
-        <lastmod>2024-01-20</lastmod>
+        <lastmod>2024-01-30</lastmod>
         <changefreq>daily</changefreq>
-        <priority>0.9</priority>
+        <priority>0.85</priority>
     </url>
+    
+    <!-- رمضان 2025 -->
     <url>
         <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/#ramadan-section</loc>
-        <lastmod>2024-01-20</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <lastmod>2024-01-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
     </url>
+    
+    <!-- تسبيح إلكتروني -->
     <url>
         <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/#tasbeeh-section</loc>
-        <lastmod>2024-01-20</lastmod>
+        <lastmod>2024-01-30</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>0.75</priority>
     </url>
+    
+    <!-- مسابقة قرآنية -->
     <url>
         <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/#quiz-section</loc>
-        <lastmod>2024-01-20</lastmod>
+        <lastmod>2024-01-30</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.70</priority>
     </url>
+    
+    <!-- أدعية اسلامية -->
     <url>
         <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/#duas-section</loc>
-        <lastmod>2024-01-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <lastmod>2024-01-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.65</priority>
     </url>
+    
+    <!-- صدقة جارية -->
     <url>
         <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/#charity-section</loc>
-        <lastmod>2024-01-20</lastmod>
+        <lastmod>2024-01-30</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.60</priority>
     </url>
+    
+    <!-- صفحات السور (مثال) -->
+    <url>
+        <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/#surah-fatiha</loc>
+        <lastmod>2024-01-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.50</priority>
+    </url>
+    
+    <url>
+        <loc>https://jyp4ddc5kv-ui.github.io/Sksmmsms/#surah-baqarah</loc>
+        <lastmod>2024-01-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.50</priority>
+    </url>
+
 </urlset>
