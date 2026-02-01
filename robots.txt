@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jyp4ddc5kv-ui.github.io/Sksmsmms/sitemap.xml
