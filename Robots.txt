@@ -2,34 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /private/
-Disallow: /tmp/
 
-Sitemap: https://jyp4ddc5kv-ui.github.io/Sksmsmms/sitemap.xml
+Sitemap: https://jyp4ddc5kv-ui.github.io/Sksmmsms/sitemap.xml
 
-# Quran Website - Islamic Content
 Crawl-delay: 2
-
-User-agent: Googlebot
-Allow: /
-Disallow: /audio-player/
-Disallow: /player-controls/
-
-User-agent: Bingbot
-Allow: /
-Disallow: /audio-player/
-
-User-agent: Slurp
-Allow: /
-Disallow: /audio-player/
-
-User-agent: DuckDuckBot
-Allow: /
-Disallow: /audio-player/
-
-User-agent: Baiduspider
-Allow: /
-Disallow: /audio-player/
-
-User-agent: YandexBot
-Allow: /
-Disallow: /audio-player/
