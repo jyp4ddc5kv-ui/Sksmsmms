@@ -1,4 +1,18 @@
+# Quran-Shamil.com - Official Robots File
 User-agent: *
 Allow: /
+Allow: /sitemap.xml
+Allow: /sitemap-index.xml
+Allow: /*.html$
 
-Sitemap: https://jyp4ddc5kv-ui.github.io/Sksmsmms/sitemap.txt
+# Disallow nothing (كل المحتوى مسموح)
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://jyp4ddc5kv-ui.github.io/Sksmsmms/sitemap-index.xml
+Sitemap: https://jyp4ddc5kv-ui.github.io/Sksmsmms/sitemap.xml
+
+# Host
+Host: jyp4ddc5kv-ui.github.io
