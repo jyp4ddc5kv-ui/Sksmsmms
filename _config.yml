@@ -1,0 +1,21 @@
+# _config.yml
+plugins:
+  - jekyll-sitemap
+
+include:
+  - sitemap.xml
+
+exclude:
+  - README.md
+
+sass:
+  style: compressed
+
+markdown: kramdown
+
+# إجبار GitHub على إرسال XML بشكل صحيح
+defaults:
+  - scope:
+      path: "sitemap.xml"
+    values:
+      sitemap: true
