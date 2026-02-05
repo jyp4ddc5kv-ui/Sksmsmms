@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <!-- الصفحة الرئيسية - الرابط الأساسي لموقعك -->
   <url>
     <loc>https://jyp4ddc5kv-ui.github.io/Sksmsmms/</loc>
     <lastmod>2024-02-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
   </url>
-  
-  <!-- صفحة القرآن -->
-  <url>
-    <loc>https://jyp4ddc5kv-ui.github.io/Sksmsmms/index.html#quran</loc>
-    <lastmod>2024-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  
-  <!-- صفحة الصلاة -->
-  <url>
-    <loc>https://jyp4ddc5kv-ui.github.io/Sksmsmms/index.html#prayer</loc>
-    <lastmod>2024-02-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  
 </urlset>
